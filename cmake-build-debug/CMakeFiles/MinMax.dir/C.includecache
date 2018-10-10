@@ -9,4 +9,6 @@
 /Users/ikutaoki/CLionProjects/MinMax/main.c
 stdio.h
 -
+stdlib.h
+-
 
