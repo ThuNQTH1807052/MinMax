@@ -1,3 +1,0 @@
-/Users/ikutaoki/CLionProjects/MinMax/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/ikutaoki/CLionProjects/MinMax/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ikutaoki/CLionProjects/MinMax/cmake-build-debug/CMakeFiles/MinMax.dir
